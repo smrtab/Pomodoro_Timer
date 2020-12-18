@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="TimerView">
+        <attr name="totalParts" format="integer" />
+        <attr name="activeParts" format="integer" />
+        <attr name="mColor" format="color" />
+        <attr name="mText" format="string" />
+    </declare-styleable>
+</resources>
